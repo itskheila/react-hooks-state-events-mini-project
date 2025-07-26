@@ -39,5 +39,6 @@ function NewTaskForm({ categories, onTaskFormSubmit }) {
       <input type="submit" value="Add task" />
     </form>
   );
+}
 
 export default NewTaskForm;

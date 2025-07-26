@@ -14,5 +14,6 @@ function TaskList({ tasks, onDeleteTask }) {
       ))}
     </div>
   );
+}
 
 export default TaskList;

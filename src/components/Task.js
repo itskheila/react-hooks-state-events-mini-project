@@ -8,5 +8,6 @@ function Task({ text, category, onDelete }) {
       <button className="delete" onClick={onDelete}>X</button>
     </div>
   );
+}
 
 export default Task;

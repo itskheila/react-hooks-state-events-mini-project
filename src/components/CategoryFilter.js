@@ -15,5 +15,6 @@ function CategoryFilter({ categories, selectedCategory, onCategoryChange }) {
       ))}
     </div>
   );
+}
 
 export default CategoryFilter;
